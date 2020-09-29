@@ -1,10 +1,10 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-    height: 500px;
-    width:  800px;
-    margin-top: 70px;
-    margin-left: 360px;
+    height: 20rem;
+    width:  20rem;
+    margin-top: 7rem;
+    margin-left: 32rem;
     background: ${props => props.theme.colors.primary};
     color: #FFF;
     border-radius: 10px;
