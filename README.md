@@ -1,4 +1,4 @@
-<h1 align="center">React Switch Theme</h1>
+<h1 align="center">Login Page With React-Switch-Theme</h1>
 
 ## 👨‍💻 Technologias Utilizadas
 
@@ -9,7 +9,7 @@
 
 ## 💻 Projeto
 
-Esse projeto é baseado na troca de temas (escuro e claro). Utilizei o <a href="https://mui.com/pt/components/switches/">React Swicth</a> para desenvolver esse projeto.
+Esse projeto é baseado em um formulário de login e na troca de temas (escuro e claro). Utilizei o <a href="https://mui.com/pt/components/switches/">React Swicth</a> para desenvolver esse projeto.
 
 ## 🔗 Link
 https://themes-phi.vercel.app/
