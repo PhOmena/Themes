@@ -13,18 +13,17 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
 
     return (
         <Container>
-            <h1>Home</h1>
-         <Switch 
-                onChange={toggleTheme}       
-                checked={title === 'dark'}  
-                checkedIcon={false}
-                uncheckedIcon={false}
-                height={10}
-                width={40}
-                handleDiameter={20}
-                offColor={shade(0.30, colors.primary)}
-                onColor={colors.secundary}
-                />
+            <Switch 
+                    onChange={toggleTheme}       
+                    checked={title === 'dark'}  
+                    checkedIcon={false}
+                    uncheckedIcon={false}
+                    height={10}
+                    width={40}
+                    handleDiameter={20}
+                    offColor={shade(0.30, colors.primary)}
+                    onColor={colors.primary}
+                    />
         </Container>
 
     );

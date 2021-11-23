@@ -5,9 +5,7 @@ import light from './styles/themes/light';
 import dark from './styles/themes/dark';
 import GlobalStyle from './styles/global';
 import Header from './components/Header';
-import Box from './components/Box';
-
-
+import Form from './components/Form';
 
 function App() {
   const [theme, setTheme] = usePersistedState('theme', light);
@@ -21,7 +19,7 @@ function App() {
     <div className="App">
       <GlobalStyle/>
       <Header toggleTheme={toggleTheme}/>
-      <Box />
+      <Form/>
     </div>
     </ThemeProvider>
   );
