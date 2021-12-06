@@ -6,6 +6,7 @@ export default createGlobalStyle`
         padding: 0;
         box-sizing: border-box;
         border: 0;
+        outline: 0;
     }
 
     body {
@@ -22,6 +23,7 @@ export default createGlobalStyle`
         border-radius: 50px;
         padding: 20px;
         transition: 200ms;
+        
     }
 
     input:focus {
