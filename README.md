@@ -18,9 +18,10 @@ Rode ```npm start``` e acesse via **localhost:3000**.
 
 > Obs: Deve-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos acima
 
-### 💻 Desktop
+### 💻 Interface
 <p align="center">
-<img width="600" src="./assets/desk1.PNG" alt="Desktop1">  
+<img width="600" src="./assets/light.png" alt="Desktop1">
+<img width="600" src="./assets/dark.png" alt="Desktop1">  
 </p>
 
 ## 🔗 Link
